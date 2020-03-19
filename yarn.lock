@@ -8906,9 +8906,9 @@ table@^5.2.3:
     string-width "^3.0.0"
 
 tailwindcss-plugin-fancy@latest:
-  version "1.2.6"
-  resolved "https://registry.yarnpkg.com/tailwindcss-plugin-fancy/-/tailwindcss-plugin-fancy-1.2.6.tgz#f2c32097f90575698e403abf53794852e3363fe5"
-  integrity sha512-Yke7IqVYwqy8YLpKlK/K3Fmch+5A4ZcIOkzhFyM8x56w9tuxzj6elTdYYbRa2YdcKebmiLDvJL0SAGNlwrQPZA==
+  version "1.2.7"
+  resolved "https://registry.yarnpkg.com/tailwindcss-plugin-fancy/-/tailwindcss-plugin-fancy-1.2.7.tgz#0bb3ab7c85c9dfc9ec10e463b417dd4d0e614891"
+  integrity sha512-vmhkooTqxP3jxghv9ARdlCnWJK0skfCmwbtI01+8akNtGErL/KTodIWzCdG26p0+uNCFQ4Vw6i0Fkscr7pYPuw==
 
 tailwindcss@^1.2.0:
   version "1.2.0"
